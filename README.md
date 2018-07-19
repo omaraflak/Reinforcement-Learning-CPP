@@ -5,8 +5,8 @@ This code demonstrates how to make a reinforcement learning algorithm from scrat
 # Download, Compile & Run
 
 ```
-git clone https://github.com/OmarAflak/Reinforcement-Learning-From-Scratch.git
-cd Reinforcement-Learning-From-Scratch
+git clone https://github.com/OmarAflak/Reinforcement-Learning-CPP
+cd Reinforcement-Learning-CPP
 make
 ./main
 ```
