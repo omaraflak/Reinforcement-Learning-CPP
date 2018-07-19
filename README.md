@@ -12,13 +12,13 @@ make
 ```
 # Environment
 
-The agent plays in a simple environment. The agent has to go from point A to point B.
+The agent has to go from point A to point B.
 
     A..........B
     
 He has two available commands : `left` and `righ`.
 
-The reward policy id the following :
+The reward policy is the following :
 
 * if (agent reaches point **B**) { reward=1 }
 * else { reward=0 }
